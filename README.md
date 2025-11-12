@@ -1,13 +1,13 @@
-# 🌍 Mayota Explore
+# 🌍 Mayotan Explore
 
-**Mayota Explore** is a bilingual (English & Amharic) local guide website that showcases the culture, history, and destinations of **Eastern Ethiopia** — including **Dire Dawa, Harar, Jigjiga, Chiro, Awash, Mechara, Gelemso, Badesa, and Hirna**.
+**Mayotan Explore** is a bilingual (English & Amharic) local guide website that showcases the culture, history, and destinations of **Eastern Ethiopia** — including **Dire Dawa, Harar, Jigjiga, Chiro, Awash, Mechara, Gelemso, Badesa, and Hirna**.
 
 🌐 **Live Website:**  
-👉 [https://ahmedelias79-sudo.github.io/mayota-explore/](https://ahmedelias79-sudo.github.io/mayota-explore/)
+👉 [https://ahmedelias79-sudo.github.io/mayotan-explore/](https://ahmedelias79-sudo.github.io/mayotan-explore/)
 
 ---
 
-## 🧭 About Mayota Explore
+## 🧭 About Mayotan Explore
 Mayota Explore helps travelers and locals discover:
 - 🕌 Historic sites  
 - 🌄 Natural attractions  
@@ -36,4 +36,4 @@ This website is built using:
 
 ---
 
-> © 2025 Mayota Explore — Discover Eastern Ethiopia / የኢትዮጵያ ምሥራቅን ያግኙ
+> © 2025 Mayotan Explore — Discover Eastern Ethiopia / የኢትዮጵያ ምሥራቅን ያግኙ
