@@ -20,7 +20,7 @@ Bilingual Content — **English / Amharic**
 
 ## 📞 Contact
 📍 Address: Dire Dawa, Ethiopia  
-📞 Phone: 0988282306  
+📞 Phone: 0900000000 
 
 Follow us on:
 - [Instagram](#)
